@@ -1,4 +1,4 @@
-## ⚡ Painel WEB - A.I ⚡
+# ⚡ Painel WEB - A.I ⚡
 # 🏆 Premium Version 🏆
 
 ## Modo de instalação - Manual
