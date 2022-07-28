@@ -1,4 +1,4 @@
-## ⚡ Painel WEB - A.I ⚡
+## ⚡ Painel Premium WEB - A.I ⚡
 
 ## Modo de instalação - Manual
 
@@ -12,22 +12,22 @@ Armazenamento: 20GB
 ```
 
 * 🐱‍💻 Instalação
-* ⚡ Painel WEB - A.I ⚡ x86/x64bits / ARM
+* ⚡ Painel WEB - A.I ⚡ x86/x64bits
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/SrCarrara/install/bad/ubuinst3.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/ubuinst3.sh)
 ```
 
 * 🐱‍💻 Instalação
 * ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/SrCarrara/install/bad/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
 * ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
-wget http://raw.githubusercontent.com/SrCarrara/install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
+wget http://raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
 
 * ♻️ Sincronizando
