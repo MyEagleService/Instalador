@@ -1,4 +1,4 @@
-<center><img src="https://i.ibb.co/YD7Js0v/download.png)" alt="ggg"/></center>
+<img src="https://i.ibb.co/YD7Js0v/download.png)" alt="Git Gone Day"/>
 # My Project - My Thoughts
 
 ## ⚡ Painel WEB - A.I ⚡
