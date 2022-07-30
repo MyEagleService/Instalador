@@ -1,3 +1,6 @@
+<center><img src="https://i.ibb.co/YD7Js0v/download.png)" alt="ggg"/></center>
+# My Project - My Thoughts
+
 ## ⚡ Painel WEB - A.I ⚡
 ## 🏆 Premium Version 🏆
 
@@ -36,8 +39,5 @@ wget http://raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/SincAI.sh 
 ```
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
-
-<center><img src="https://i.ibb.co/YD7Js0v/download.png)" alt="ggg"/></center>
-# My Project - My Thoughts
 
  Powered By: <a href="https://t.me/SrCarrara/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿Lex Luthor</a>.
