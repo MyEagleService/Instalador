@@ -38,6 +38,6 @@ wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.ht
 ```
 
 <center><img src="https://i.ibb.co/YD7Js0v/download.png)" alt="ggg"/></center>
-# My cool project and above is the logo of it
+# My Project - My Thoughts
 
  Powered By: <a href="https://t.me/SrCarrara/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿Lex Luthor</a>.
