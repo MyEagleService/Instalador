@@ -37,7 +37,7 @@ wget http://raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/SincAI.sh 
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+<center><img src="[/docs/logo.png](https://i.ibb.co/YD7Js0v/download.png)" alt=""/></center>
 # My cool project and above is the logo of it
 
  Powered By: <a href="https://t.me/SrCarrara/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿Lex Luthor</a>.
