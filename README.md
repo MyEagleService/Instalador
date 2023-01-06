@@ -1,8 +1,7 @@
 <img src="https://i.ibb.co/YD7Js0v/download.png)" alt="Git Gone Day"/>
 # My Project - My Thoughts
 
-## ⚡ Painel WEB - A.I ⚡
-## 🏆 Premium Version 🏆
+## 🦅 Painel WEB 🦅
 
 ## Modo de instalação - Manual
 
@@ -16,28 +15,28 @@ Armazenamento: 20GB
 ```
 
 * 🐱‍💻 Instalação
-* ⚡ Painel WEB - A.I ⚡ x86/x64bits
+* 🦅 Painel WEB x86/x64bits
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/ubuinst3.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/Instalador/Premium/ubuinst.sh)
 ```
 
 * 🐱‍💻 Instalação
-* ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
+* 🦅 Painel WEB 🦅 DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/Instalador/Premium/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
-* ⚡ Painel WEB - A.I ⚡x86/x64bits
+* 🦅 Painel WEB 🦅 x86/x64bits
 ```
-wget http://raw.githubusercontent.com/WebPremiumAI/Instalador/Premium/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
+wget http://raw.githubusercontent.com/MyEagleService/Instalador/Premium/SincAI.sh && chmod +x SincAI.sh && dos2unix ???.sh && ./???.sh
 ```
 
 * ♻️ Sincronizando
-* ⚡ Painel WEB - A.I ⚡ARM
+* 🦅 Painel WEB 🦅 ARM
 ```
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
- Powered By: <a href="https://t.me/SrCarrara/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿Lex Luthor</a>.
+ Powered By: <a href="https://t.me/HarrisonnWells/">Harrison Wells</a>
