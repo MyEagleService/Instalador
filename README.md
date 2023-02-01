@@ -30,7 +30,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/I
 * ♻️ Sincronização
 * 🦅 Painel WEB 🦅 x86/x64bits
 ```
-wget http://raw.githubusercontent.com/MyEagleService/Instalador/Premium/SincAI.sh && chmod +x SincAI.sh && dos2unix ???.sh && ./???.sh
+apt install wget -y; bash <(wget -qO- https://github.com/MyEagleService/alone/raw/main/web/sincpainel.sh)
 ```
 
 * ♻️ Sincronizando
