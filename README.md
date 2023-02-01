@@ -24,19 +24,13 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/I
 * 🐱‍💻 Instalação
 * 🦅 Painel WEB 🦅 DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/Instalador/Premium/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- HTTPS://github.com/MyEagleService/alone/raw/main/web/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
 * 🦅 Painel WEB 🦅 x86/x64bits
 ```
 apt install wget -y; bash <(wget -qO- https://github.com/MyEagleService/alone/raw/main/web/sincpainel.sh)
-```
-
-* ♻️ Sincronizando
-* 🦅 Painel WEB 🦅 ARM
-```
-wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
  Powered By: <a href="https://t.me/HarrisonnWells/">Harrison Wells</a>
