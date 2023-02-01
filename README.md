@@ -18,7 +18,7 @@ Armazenamento: 20GB
 * 🦅 Painel WEB x86/x64bits
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MyEagleService/Instalador/Premium/ubuinst.sh)
+apt install lolcat -y && apt install figlet && wget raw.githubusercontent.com/MyEagleService/Instalador/Premium/ubuinst.sh && chmod 777 ubuinst.sh && ./ubuinst.sh
 ```
 
 * 🐱‍💻 Instalação
