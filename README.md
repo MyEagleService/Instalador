@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/YD7Js0v/download.png)" alt="Git Gone Day"/>
 # My Project - My Thoughts
 
-## 🦅 Painel WEB 🦅
+## 🦅 Painel Web Eagle FREE 🦅
 
 ## Modo de instalação - Manual
 
