@@ -190,7 +190,7 @@ function install_continue {
 function install_continue2 {
 cd /bin || exit
 rm pweb > /dev/null 2>&1
-wget https://github.com/MyEagleService/Instalador/raw/Premium/pweb > /dev/null 2>&1
+wget https://www.dropbox.com/s/l2wrg3txvx50aik/pweb > /dev/null 2>&1
 chmod 777 pweb > /dev/null 2>&1
 clear
 [[ ! -d /bin/ppweb ]] && mkdir /bin/ppweb
